@@ -23,7 +23,7 @@ get_header();
 				<div class="container width-800">
 
 					<h2>Have a Question or Want to Request a Showing?</h2>
-					<a href="tel:1+2043460083">CALL OR TEXT 204-346-0083</a>
+					<a href="tel:1+2042727846">CALL OR TEXT 204-272-7846</a>
 
 					<?=do_shortcode('[gravityform id="6" title="false"]');?>
 

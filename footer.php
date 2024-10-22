@@ -65,7 +65,7 @@
 		</div>
 
 		<div class="phone">
-			<a href="tel:+12043460083">204-346-0083</a>
+			<a href="tel:+12042727846">204-272-7846</a>
 		</div>
 
 		<div class="copyright center">
